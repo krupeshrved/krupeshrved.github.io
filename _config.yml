@@ -18,14 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Krupesh Ved's Profile
+title: Krupesh Ved
 email: krupeshved@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Software Engineer with five years of professional experience in the Hi-Tech Semiconductors Industry acorss India, Germany and the United States
+  Software Engineer with five years of professional experience across India, Germany and the United States
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https:/krupeshrved.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: krupesh_ved
 github_username: krupeshrved
+instagram_username: krupeshved
 # Build settings
 theme: minima
 plugins:
