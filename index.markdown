@@ -1,86 +1,46 @@
 ---
-layout: home
+home: layout
 ---
-# Krupesh Ved
-Software Engineer, Traveller, Blogger, Product Enthusiast
+Problem Solver | Product Enthusiast | Thinking Different
 
 <div id="webaddress">
 <a href="krupeshved@gmail.com">krupeshved@gmail.com</a>
-| <a href="https://www.linkedin.com/in/krupeshved/">My LinkedIn Page</a>
+| <a href="https://www.linkedin.com/in/krupeshved/">[LinkedIn]</a>
 </div>
 
 
-## Currently
+## Summary
 
-Standing on the shoulders of giants
+An enthusiastic learner with five years of diverse international experience across the United States, Germany and India
+Worked in the Hi-Tech Semiconductors Industry with a passion to deliver world-class differentiating wireless products
 
-### Specialized in
+### Experience
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+ `2020-21`
+  __MBA (PGPX), Indian Institute of Management Ahmedabad__
+  Currently enrolled in IIMA’s one-year Post Graduate Programme for Executives
+ 
+ `2017`
+  __MS (Electrical Engineering), University of Southern California, CGPA: 3.87/4__
+  Conducted directed research on WARP Radios with Ph.D. students at the ANRG Research LAB
+  Teaching Assistant and Course Grader to students enrolled in the course EE 567 at USC
+ 
+ `2009-13`
+  __BE (Electronics and Telecommunications), Mumbai University, 82.5%__
+  Top 1% in college. University topper across 73 colleges in Mumbai during third year of Engineering
+  Volunteered for several activities and events at the college Cultural and Tech Fest 
+ 
+## Hobbies
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+Travelling (30 countries visited)
+Sports (Cricket, Tennis, Badminton)
+Photography (Wildlife, Landscape)
 
 
 <!-- ### Footer
