@@ -14,6 +14,8 @@
 - An enthusiastic learner with five years of international experience across the United States, Germany and India
 - Worked in the Hi-Tech Semiconductors Industry with a passion to deliver world-class differentiating products
 
+Software Engineer | Product Enthusiast | Problem Solver
+
 ## Experience
 
   __ASIC Design Engineer at Apple Inc., Munich, Germany__ `2019-Present`
@@ -64,8 +66,6 @@
 - *Travelling (30 countries visited)*
 - *Sports (Cricket, Tennis, Badminton)*
 - *Photography (Wildlife, Landscape)*
-
-Software Engineer | Product Enthusiast | Problem Solver
 
 <!-- ### Footer
 
