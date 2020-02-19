@@ -40,8 +40,8 @@
   
 ## Education
 
-  __MBA (PGPX), Indian Institute of Management Ahmedabad__ ` Apr 20 - Mar 21`
-  - Planning to pursure IIM-A’s one-year Post Graduate Programme for Executives
+  __MBA (PGPX), Indian Institute of Management Ahmedabad__ `Apr 20 - Mar 21`
+  - Planning to pursue an MBA from IIM-A’s one-year Post Graduate Programme for Executives
  
   __MS (Electrical Engineering), University of Southern California, CGPA: 3.87/4__  `Sep 13 - Dec 14`
   - Conducted directed research on WARP Radios with Ph.D. students at the ANRG Research LAB
