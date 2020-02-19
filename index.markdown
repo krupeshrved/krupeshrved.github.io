@@ -1,6 +1,9 @@
 ---
 
 ---
+
+![Alt text](https://github.com/krupeshrved/krupeshrved.github.io/blob/master/assets/images/profile.jpg?raw=true "ProfilePic")
+
 <div id="webaddress">
  <a href="https://www.linkedin.com/in/krupeshved/">LinkedIn</a>
   | <a href="https://www.github.com/krupeshrved">GitHub</a>
