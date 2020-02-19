@@ -22,9 +22,8 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ## Education
 
- `2020-21`
-  __MBA (PGPX), Indian Institute of Management Ahmedabad__
-  Currently enrolled in IIMA’s one-year Post Graduate Programme for Executives
+  __MBA (PGPX), Indian Institute of Management Ahmedabad__ `2020-21`
+  - Currently enrolled in IIMA’s one-year Post Graduate Programme for Executives
  
  `2017`
   __MS (Electrical Engineering), University of Southern California, CGPA: 3.87/4__
@@ -33,14 +32,14 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
  
  `2009-13`
   __BE (Electronics and Telecommunications), Mumbai University, 82.5%__
-  Top 1% in college. University topper across 73 colleges in Mumbai during third year of Engineering
-  Volunteered for several activities and events at the college Cultural and Tech Fest 
+  - Top 1% in college. University topper across 73 colleges in Mumbai during third year of Engineering
+  - Volunteered for several activities and events at the college Cultural and Tech Fest 
  
 ## Hobbies
 
-Travelling (30 countries visited)
-Sports (Cricket, Tennis, Badminton)
-Photography (Wildlife, Landscape)
+- Travelling (30 countries visited)
+- Sports (Cricket, Tennis, Badminton)
+- Photography (Wildlife, Landscape)
 
 
 <!-- ### Footer
