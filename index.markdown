@@ -5,6 +5,6 @@
 layout: home
 ---
 
-Resume to follow
+Resume to be updated soon
 
 [spotify-playlist]: https://open.spotify.com/playlist/1EGuueDPLt1lzCw7s8pcsR
