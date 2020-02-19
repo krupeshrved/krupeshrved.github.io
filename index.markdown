@@ -12,7 +12,11 @@
 ## Summary
 
 - An enthusiastic learner with five years of international experience across the United States, Germany and India
-- Worked in the Hi-Tech Semiconductors Industry with a passion to deliver world-class differentiating products
+- Worked in the Hi-Tech Semiconductors Industry with a passion to deliver differentiating Wireless Products
+
+## Objective
+
+- Looking for opportunities as a Product Manager in a company or a well reputable association, thereby using a blend of my technical and business skills to deliver world-class products that empower customers
 
 ## Experience
 
@@ -45,7 +49,7 @@
   - Top 1% in college. University topper across 73 colleges in Mumbai during third year of Engineering
   - Volunteered for several activities and events at the college Cultural and Tech Fest 
   
-  ## Certifications
+  ### Certifications
   
   - __MOOCs__ (Machine Learning and Artificial Intelligence), Coursera `Jan 2020` 
   - __MOOCs__ (Transitioning to Product Management), LinkedIn Learning `Nov 2019`
@@ -53,7 +57,7 @@
   - __CORe__ (Credential of Readiness), Harvard Business School Online `Sep 2017`
   
   
-  ## Achievements
+  ### Achievements
   
   - Received a Divisional Recognition Award at Intel for improving the modem’s power KPI by ~7% or 1.5 Hours
   - Admitted into the prestigious MSEE Honors Program for doing outstanding research with the ANRG Group
