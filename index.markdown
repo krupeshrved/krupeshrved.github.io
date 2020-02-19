@@ -1,7 +1,7 @@
 ---
 
 ---
-Problem Solver | Product Enthusiast | Thinking Different
+Software Engineer | Product Enthusiast | Problem Solver
 
 <div id="webaddress">
 <a href="krupeshved@gmail.com">krupeshved@gmail.com</a>
@@ -13,8 +13,8 @@ Problem Solver | Product Enthusiast | Thinking Different
 
 ## Summary
 
-- *An enthusiastic learner with five years of diverse international experience across the United States, Germany and India*
-- *Worked in the Hi-Tech Semiconductors Industry with a passion to deliver world-class differentiating wireless products*
+- An enthusiastic learner with five years of diverse international experience across the United States, Germany and India
+- Worked in the Hi-Tech Semiconductors Industry with a passion to deliver world-class differentiating wireless products
 
 ## Experience
 
@@ -35,9 +35,9 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
  
 ## Hobbies
 
-- Travelling (30 countries visited)
-- Sports (Cricket, Tennis, Badminton)
-- Photography (Wildlife, Landscape)
+- *Travelling (30 countries visited)*
+- *Sports (Cricket, Tennis, Badminton)*
+- *Photography (Wildlife, Landscape)*
 
 
 <!-- ### Footer
