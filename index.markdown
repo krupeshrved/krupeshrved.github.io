@@ -5,13 +5,13 @@
 layout: home
 ---
 
-Johnny Coder
+Krupesh Ved
 ============
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+-------------------     --------------------------
+301 Giri Kunj Bldg       krupeshved@gmail.com
+11-c N.S. Patkar Marg    @krupesh_ved
+Mumbai 400007, India     +91-98199 17577
 -------------------     ----------------------------
 
 Education
