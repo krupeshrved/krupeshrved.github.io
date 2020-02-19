@@ -5,9 +5,9 @@
 <a href="krupeshved@gmail.com">Email</a>
 | <a href="https://www.linkedin.com/in/krupeshved/">LinkedIn</a>
   | <a href="https://www.github.com/krupeshrved">GitHub</a>
-    | <a href="https://twitter.com/krupesh_ved">twitter</a>
+    | <a href="https://twitter.com/krupesh_ved">Twitter</a>
+      | <a href="https://medium.com/@krupeshved_89295">Medium</a>
 </div>
-
 
 ## Summary
 
@@ -16,21 +16,26 @@
 
 ## Experience
 
-  __MBA (PGPX), Indian Institute of Management Ahmedabad__ `2020-21`
-  - Currently enrolled in IIMA’s one-year Post Graduate Programme for Executives
+  __ASIC Design Engineer at Apple Inc., Munich, Germany__ `2019-Present`
+  - Currently working at Apple's RnD Center in Munich on 5G-NR Cellular Development
+  - Responsible for firmware design and development as per 38 Series 3GPP Specifications
  
-  __MS (Electrical Engineering), University of Southern California, CGPA: 3.87/4__  `2017`
-  - Conducted directed research on WARP Radios with Ph.D. students at the ANRG Research LAB
-  - Teaching Assistant and Course Grader to students enrolled in the course EE 567 at USC
- 
-  __BE (Electronics and Telecommunications), Mumbai University, 82.5%__ `2009-13`
-  - Top 1% in college. University topper across 73 colleges in Mumbai during third year of Engineering
-  - Volunteered for several activities and events at the college Cultural and Tech Fest 
-
+  __Senior Firmware Engineer at Intel Deutschland GmbH, Nuremberg, Germany__  `2018-19`
+  - Moved to Intel's office in Nuremberg to gain further international exposure and diversity in 2018
+  - Worked on customer interaction and software maintainance during launch phase of the product
+  
+  __Software Development Engineer at Intel Corporation, San Diego, California, USA__ `2015-17`
+  - Joined Intel Corporation as a recent college graduate working on LTE Layer One Control Standards and Procedures
+  - Designed several LTE features and supported chip bring-up activities to meet critical modem KPIs and milestones
+  
+  __Graduate Technical Intern at Intel Corporation, Chicago, Illinois, USA__ `2014`
+  - Completed a summer internship (as part of curriculum practical training) at Intel's office in Kemper Lakes, Chicago 
+  - Familiarized with several of Intel's development tools such as STT, CMW500, Crash Inspect for log analysis and debugging
+  
 ## Education
 
   __MBA (PGPX), Indian Institute of Management Ahmedabad__ `2020-21`
-  - Currently enrolled in IIMA’s one-year Post Graduate Programme for Executives
+  - Planning to pursure IIM-A’s one-year Post Graduate Programme for Executives
  
   __MS (Electrical Engineering), University of Southern California, CGPA: 3.87/4__  `2017`
   - Conducted directed research on WARP Radios with Ph.D. students at the ANRG Research LAB
