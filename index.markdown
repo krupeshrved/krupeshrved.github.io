@@ -6,7 +6,6 @@
   | <a href="https://www.github.com/krupeshrved">GitHub</a>
     | <a href="https://twitter.com/krupesh_ved">Twitter</a>
       | <a href="https://medium.com/@krupeshved_89295">Medium</a>
-        | <a href="krupeshved@gmail.com">Email</a>
 </div>
 
 ## Summary
