@@ -1,5 +1,5 @@
 ---
-home: layout
+
 ---
 Problem Solver | Product Enthusiast | Thinking Different
 
@@ -25,13 +25,11 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
   __MBA (PGPX), Indian Institute of Management Ahmedabad__ `2020-21`
   - Currently enrolled in IIMA’s one-year Post Graduate Programme for Executives
  
- `2017`
-  __MS (Electrical Engineering), University of Southern California, CGPA: 3.87/4__
-  Conducted directed research on WARP Radios with Ph.D. students at the ANRG Research LAB
-  Teaching Assistant and Course Grader to students enrolled in the course EE 567 at USC
+  __MS (Electrical Engineering), University of Southern California, CGPA: 3.87/4__  `2017`
+  - Conducted directed research on WARP Radios with Ph.D. students at the ANRG Research LAB
+  - Teaching Assistant and Course Grader to students enrolled in the course EE 567 at USC
  
- `2009-13`
-  __BE (Electronics and Telecommunications), Mumbai University, 82.5%__
+  __BE (Electronics and Telecommunications), Mumbai University, 82.5%__ `2009-13`
   - Top 1% in college. University topper across 73 colleges in Mumbai during third year of Engineering
   - Volunteered for several activities and events at the college Cultural and Tech Fest 
  
