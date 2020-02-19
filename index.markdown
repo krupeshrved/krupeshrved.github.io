@@ -1,11 +1,13 @@
 ---
-layout: home
+
 ---
 Problem Solver | Product Enthusiast | Thinking Different
 
 <div id="webaddress">
 <a href="krupeshved@gmail.com">krupeshved@gmail.com</a>
-| <a href="https://www.linkedin.com/in/krupeshved/">[LinkedIn]</a>
+| <a href="https://www.linkedin.com/in/krupeshved/">LinkedIn</a>
+  | <a href="https://www.github.com/krupeshrved">GitHub</a>
+    | <a href="https://twitter.com/krupesh_ved">twitter</a>
 </div>
 
 
@@ -17,8 +19,6 @@ Problem Solver | Product Enthusiast | Thinking Different
 ## Experience
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
 
 ## Education
 
