@@ -1,6 +1,5 @@
 ---
-layout: cv
-title: Krupesh Ved's Profile
+layout: home
 ---
 # Krupesh Ved
 Software Engineer, Traveller, Blogger, Product Enthusiast
