@@ -1,7 +1,6 @@
 ---
 
 ---
-<img src="https://github.com/krupeshrved/krupeshrved.github.io/blob/master/assets/images/profile.jpg" width="300" height="200" />
 
 <div id="webaddress">
  <a href="https://www.linkedin.com/in/krupeshved/">LinkedIn</a>
