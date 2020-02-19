@@ -16,7 +16,7 @@
 
 ## Objective
 
-- Looking for opportunities as a Product Manager in a company or a well reputable association, thereby using a blend of my technical and business skills to deliver world-class products that empower customers
+*Looking for opportunities as a Product Manager in a company or a well reputable association, thereby using a blend of my technical and business skills to deliver world-class products that empower customers*
 
 ## Experience
 
