@@ -47,10 +47,13 @@
   
   ## Certifications
   
-  __MOOCs__ (Machine Learning and Artificial Intelligence), Coursera `Jan 2020`
-  __MOOCs__ (Transitioning to Product Management), LinkedIn Learning `Nov 2019`
-  __CFA__ (Passed Level One Examination), CFA Institute `June 2019`
-  __CORe__ (Credential of Readiness), Harvard Business School Online `Sep 2017`
+  - __MOOCs__ (Machine Learning and Artificial Intelligence), Coursera `Jan 2020`
+  
+  - __MOOCs__ (Transitioning to Product Management), LinkedIn Learning `Nov 2019`
+  
+  - __CFA__ (Passed Level One Examination), CFA Institute `June 2019`
+  
+  - __CORe__ (Credential of Readiness), Harvard Business School Online `Sep 2017`
   
   ## Achievements
   
