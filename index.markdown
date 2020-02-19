@@ -1,5 +1,5 @@
 ---
-
+layout: home
 ---
 Problem Solver | Product Enthusiast | Thinking Different
 
@@ -11,10 +11,10 @@ Problem Solver | Product Enthusiast | Thinking Different
 
 ## Summary
 
-An enthusiastic learner with five years of diverse international experience across the United States, Germany and India
-Worked in the Hi-Tech Semiconductors Industry with a passion to deliver world-class differentiating wireless products
+- *An enthusiastic learner with five years of diverse international experience across the United States, Germany and India*
+- *Worked in the Hi-Tech Semiconductors Industry with a passion to deliver world-class differentiating wireless products*
 
-### Experience
+## Experience
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
