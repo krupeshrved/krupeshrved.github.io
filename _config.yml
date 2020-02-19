@@ -21,13 +21,18 @@
 # Personal info
 authorname: Krupesh Ved
 location: Mumbai, Maharashta, India
+
 title:  KRUPESH VED
 email: krupeshved@gmail.com
 phone: +91-98199 17577
+pic: profile.jpg
+
 description: >- # this means to ignore newlines until "baseurl:"
   Software Engineer | Problem Solver | Finance Enthusiast | Traveller | Blogger
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https:/krupeshrved.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://krupeshrved.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+#sidebar links 
 twitter_username: krupesh_ved
 github_username: krupeshrved
 instagram_username: krupeshved
