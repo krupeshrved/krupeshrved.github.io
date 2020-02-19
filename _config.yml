@@ -17,12 +17,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+# Personal info
 author:
 name: Krupesh Ved
 location: Mumbai, Maharashta, India
-
-title: Krupesh Ved's Profile
+title: <mask>Krupesh Ved's Profile</mask>
 email: krupeshved@gmail.com
+phone: +91-9819917577
+
 description: >- # this means to ignore newlines until "baseurl:"
   Software Engineer with five years of professional experience in the Hi-Tech Semiconductors Industry across India, Germany and the United States
 baseurl: "" # the subpath of your site, e.g. /blog
