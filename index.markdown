@@ -53,7 +53,8 @@
   - Volunteered for several activities and events at the college Cultural and Tech Fest 
   
   
-  ## Certifications
+   Certifications
+   ---------------
   
   - __MOOCs__ (Machine Learning and Artificial Intelligence), Coursera `Jan 20` 
   - __MOOCs__ (Transitioning to Product Management), LinkedIn Learning `Nov 19`
@@ -61,7 +62,8 @@
   - __CORe__ (Credential of Readiness), Harvard Business School Online `Sep 17`
   
   
-  ### Achievements
+   Achievements
+   ------------
   
   - Admitted into the prestigious MSEE Honors Program for doing outstanding research with the ANRG Group
   - Top 1% among 1200 incoming students to receive the USC Dean’s Fellowship Award (~$5100 tuition waiver)
