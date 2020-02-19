@@ -14,9 +14,11 @@
 - An enthusiastic learner with five years of international experience across the United States, Germany and India
 - Worked in the Hi-Tech Semiconductors Industry with a passion to deliver differentiating Wireless Products
 
+
 ## Objective
 
 *Looking for opportunities as a Product Manager in a company or a well reputable association, thereby using a blend of my technical and business skills to deliver world-class products that empower customers*
+
 
 ## Experience
 
@@ -36,6 +38,7 @@
   - Completed a summer internship (as part of curriculum practical training) at Intel's office in Kemper Lakes, Chicago 
   - Familiarized with several of Intel's development tools such as STT, CMW500, Crash Inspect for log analysis and debugging
   
+  
 ## Education
 
   __MBA (PGPX), Indian Institute of Management Ahmedabad__ ` Apr 20 - Mar 21`
@@ -49,7 +52,8 @@
   - Top 1% in college. University topper across 73 colleges in Mumbai during third year of Engineering
   - Volunteered for several activities and events at the college Cultural and Tech Fest 
   
-  ### Certifications
+  
+  ## Certifications
   
   - __MOOCs__ (Machine Learning and Artificial Intelligence), Coursera `Jan 20` 
   - __MOOCs__ (Transitioning to Product Management), LinkedIn Learning `Nov 19`
