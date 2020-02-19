@@ -52,12 +52,14 @@
   - __CFA__ (Passed Level One Examination), CFA Institute `June 2019`  
   - __CORe__ (Credential of Readiness), Harvard Business School Online `Sep 2017`
   
+  
   ## Achievements
   
   - Received a Divisional Recognition Award at Intel for improving the modem’s power KPI by ~7% or 1.5 Hours
   - Admitted into the prestigious MSEE Honors Program for doing outstanding research with the ANRG Group
   - Top 1% among 1200 incoming students to receive the USC Dean’s Fellowship Award (~$5100 tuition waiver)
   - Awarded the J.R.D Tata Scholarship twice during the second and third years of undergraduate engineering
+  
  
 ## Hobbies
 
