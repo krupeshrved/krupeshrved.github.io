@@ -1,8 +1,6 @@
 ---
 
 ---
-Software Engineer | Product Enthusiast | Problem Solver
-
 <div id="webaddress">
 <a href="krupeshved@gmail.com">Email</a>
 | <a href="https://www.linkedin.com/in/krupeshved/">LinkedIn</a>
@@ -62,6 +60,7 @@ Software Engineer | Product Enthusiast | Problem Solver
 - *Sports (Cricket, Tennis, Badminton)*
 - *Photography (Wildlife, Landscape)*
 
+Software Engineer | Product Enthusiast | Problem Solver
 
 <!-- ### Footer
 
