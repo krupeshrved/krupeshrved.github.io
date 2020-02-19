@@ -63,14 +63,14 @@
   
 ## Achievements
   
-  - Admitted into the prestigious MSEE Honors Program for doing outstanding research with the ANRG Group
-  - Top 1% among 1200 incoming students to receive the USC Dean’s Fellowship Award (~$5100 tuition waiver)
-  - Awarded the J.R.D Tata Scholarship twice during the second and third years of undergraduate engineering
+  - Admitted into the prestigious __MSEE Honors Program__ for doing outstanding research with the ANRG Group
+  - Top 1% among 1200 incoming students to receive the __USC Dean’s Fellowship Award__ (~$5100 tuition waiver)
+  - Awarded the __J.R.D Tata Scholarship__ twice during the second and third years of undergraduate engineering
   
  
 ## Hobbies
 
-- *Travelling (Thirty countries visited)*
+- *Travelling (Thirty One countries visited)*
 - *Sports (Cricket, Tennis, Badminton)*
 - *Photography (Wildlife, Landscape)*
 
