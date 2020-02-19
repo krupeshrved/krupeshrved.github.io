@@ -24,18 +24,7 @@ name: Krupesh Ved
 location: Mumbai, Maharashta, India
 title: Krupesh Ved's Profile
 email: krupeshved@gmail.com
-phone: +91-9819917577
-
-# About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
-about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+phone: +91-98199 17577
 
 description: >- # this means to ignore newlines until "baseurl:"
   Software Engineer with five years of professional experience in the Hi-Tech Semiconductors Industry across India, Germany and the United States
