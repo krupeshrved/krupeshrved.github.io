@@ -66,7 +66,7 @@
  
 ## Hobbies
 
-- *Travelling (30 countries visited)*
+- *Travelling (Thirty countries visited)*
 - *Sports (Cricket, Tennis, Badminton)*
 - *Photography (Wildlife, Landscape)*
 
