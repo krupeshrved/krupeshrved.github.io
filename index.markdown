@@ -67,6 +67,7 @@
   - __CFA__ (Passed CFA Institute's Level One Examination), CFA Institute `Jun 19`
  <a href="https://basno.com/nw2ze8h6">[See Credential]</a>
   - __CORe__ (Credential of Readiness), Harvard Business School Online `Sep 17`
+ <a href="https://online.hbs.edu/courses/core/">[See Credential]</a>
 
 ## Achievements
   
