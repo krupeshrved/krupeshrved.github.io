@@ -27,11 +27,11 @@
   - Currently working at Apple's RnD Center in Munich on 5G-NR Cellular Development
   - Responsible for firmware design and development as per 38 Series 3GPP Specifications
  
-  __Senior Firmware Engineer at Intel Deutschland GmbH, Nuremberg, Germany__  `Jan 18 - Oct 19`
+  __Firmware Engineer at Intel Deutschland GmbH, Nuremberg, Germany__  `Jan 18 - Oct 19`
   - Moved to Intel's office in Nuremberg to gain further international exposure and diversity in 2018
   - Worked on customer interaction and software maintainance during launch phase of the product
   
-  __Software Development Engineer at Intel Corporation, San Diego, California, USA__ `Feb 15 - Dec 17`
+  __Software Engineer at Intel Corporation, San Diego, California, USA__ `Feb 15 - Dec 17`
   - Joined Intel Corporation as a recent college graduate working on LTE Layer One Control Standards and Procedures
   - Designed several LTE features and supported chip bring-up activities to meet critical modem KPIs and milestones
   
