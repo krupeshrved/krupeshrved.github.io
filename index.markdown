@@ -12,22 +12,18 @@
 ## Summary
 
 - An experienced professional with five years of diverse international experience in the Hi-Tech Semiconductors industry across the United States, Germany and India
-- Graduated in Fall 2014 with a Master’s Degree in Electrical Engineering (Wireless Networks) from the University of Southern California (Viterbi School of Engineering)
-- Worked at Intel's Communications and Devices Group (iCDG) as a Firmware/Software Development Engineer, developing LTE cellular products for tier-one smartphone customers
-- Contributed to several generations of Intel's commercialised XMM7xx series multi-mode LTE Modem Platforms providing Wireless Connectivity to millions of users across the globe
-- Gained expertise in product development, software maintenance, system design, wireless communications technologies (4G/5G NR) as well as physical layer algorithms
-- Finance enthusiast with a passion for equity research/derivatives trading/portfolio management
+- Worked at leading Tech Giants such as Apple and Intel with a passion to develop world-class Cellular Products that empower and connect smartphone users
 
 
 ## Objective
 
-- Looking for opportunities as a Product Manager in a company or a well reputable association, thereby using a blend of my technical and business skills to deliver world-class differentiating products that empower customers
+- Looking for opportunities as a Product Manager in a company or a well reputable association, thereby using a blend of my technical and business skills to deliver differentiating products
 - I believe in bringing out four aspect of a product - Emotion, Empowerment, Simpilicty and Beauty - which can be achieved with a combination of technology and humanity
 
 
 ## Experience
 
-  __ASIC Design Engineer at Apple Inc., Munich, Germany__ `Nov 19 - Present`
+  __ASIC Design Engineer at Apple Technology Services, Munich, Germany__ `Nov 19 - Present`
   - Currently working at Apple's RnD Center in Munich on 5G-NR Cellular Development
   - Responsible for firmware design and development as per 38 Series 3GPP Specifications
  
