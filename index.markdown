@@ -79,9 +79,9 @@
  
 ## Hobbies
 
-- *Travelling (Thirty One countries visited)*
-- *Sports (Cricket, Tennis, Badminton)*
-- *Photography (Wildlife, Landscape)*
+- __Travelling__ (Thirty One countries visited)
+- __Sports__ (Cricket, Tennis, Badminton)
+- __Photography__ (Wildlife, Landscape)
 
 <!-- ### Footer
 
