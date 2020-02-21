@@ -54,7 +54,8 @@
 
 
 ## Certifications
-  
+  - __MOOCs__ (Elements of AI), University of Helsinki `Feb 20`
+ <a href="https://certificates.mooc.fi/validate/7x7y1zflma8">[View Certificate]</a>
   - __MOOCs__ (Machine Learning and Artificial Intelligence), Coursera `Jan 20` 
   - __MOOCs__ (Transitioning to Product Management), LinkedIn Learning `Nov 19`
   - __CFA__ (Passed CFA Institute's Level One Examination), CFA Institute `Jun 19`  
