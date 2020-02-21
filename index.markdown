@@ -6,7 +6,7 @@
  <a href="https://www.linkedin.com/in/krupeshved/">LinkedIn</a>
   | <a href="https://www.github.com/krupeshrved">GitHub</a>
     | <a href="https://twitter.com/krupesh_ved">Twitter</a>
-      | <a href="https://medium.com/@krupeshrved">Medium</a>
+      | <a href="https://medium.com/@krupeshved">Medium</a>
 </div>
 
 ## Summary
