@@ -55,13 +55,19 @@
 
 ## Certifications
   - __MOOCs__ (Elements of AI), University of Helsinki `Feb 20`
- <a href="https://certificates.mooc.fi/validate/7x7y1zflma8">[View Certificate]</a>
-  - __MOOCs__ (Machine Learning and Artificial Intelligence), Coursera `Jan 20` 
+ <a href="https://certificates.mooc.fi/validate/7x7y1zflma8">[See Credential]</a>
+  - __MOOCs__ (Machine Learning by Prof. Andrew NG), Coursera `Jan 20`
+ <a href="https://www.coursera.org/account/accomplishments/verify/73M49QBYXT54">[See Credential]</a>
+   - __MOOCs__ (AI for eveyone by Prof. Andrew NG), Coursera `Jan 20`
+ <a href="https://www.coursera.org/account/accomplishments/verify/NBWNQCT4B6Q7">[See Credential]</a>
   - __MOOCs__ (Transitioning to Product Management), LinkedIn Learning `Nov 19`
-  - __CFA__ (Passed CFA Institute's Level One Examination), CFA Institute `Jun 19`  
+ <a href="https://www.linkedin.com/learning/transitioning-to-product-management">[See Credential]</a>
+   - __MOOCs__ (Introduction to Corporate Finance), CFI Institute `Nov 19`
+ <a href="https://www.credential.net/cdb6ee0e-45f8-4c02-9db3-e6b73a8a5cf5">[See Credential]</a>
+  - __CFA__ (Passed CFA Institute's Level One Examination), CFA Institute `Jun 19`
+ <a href="https://basno.com/nw2ze8h6">[See Credential]</a>
   - __CORe__ (Credential of Readiness), Harvard Business School Online `Sep 17`
-  
-  
+
 ## Achievements
   
   - Admitted into the prestigious __MSEE Honors Program__ for doing outstanding research with the ANRG Group
