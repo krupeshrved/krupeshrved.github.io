@@ -37,7 +37,7 @@
   
   __Graduate Technical Intern at Intel Corporation, Chicago, Illinois, USA__ `Jun 14 - Aug 14`
   - Completed a summer internship (as part of curriculum practical training) at Intel's office in Kemper Lakes, Chicago 
-  - Familiarized with several of Intel's development tools such as STT, CMW500, Crash Inspect for log analysis and debugging
+  - Familiarized with several of Intel's development tools such as STT and CMW500 useful for log analysis and triaging
   
   
 ## Education
