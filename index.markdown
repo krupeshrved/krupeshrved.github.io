@@ -22,6 +22,7 @@
 ## Objective
 
 - Looking for opportunities as a Product Manager in a company or a well reputable association, thereby using a blend of my technical and business skills to deliver world-class differentiating products that empower customers
+- I believe in bringing out four aspect of a product - Emotion, Empowerment, Simpilicty and Beauty - which can be achieved with a combination of technology and humanity
 
 
 ## Experience
