@@ -11,8 +11,12 @@
 
 ## Summary
 
-- An enthusiastic learner with five years of international experience across the United States, Germany and India
-- Worked in the Hi-Tech Semiconductors Industry with a passion to deliver differentiating Wireless Products
+- An experienced professional with five years of diverse international experience in the Hi-Tech Semiconductors industry across the United States, Germany and India
+- Graduated in Fall 2014 with a Master’s Degree in Electrical Engineering (Wireless Networks) from the University of Southern California (Viterbi School of Engineering)
+- Worked at Intel's Communications and Devices Group (iCDG) as a Firmware/Software Development Engineer, developing LTE cellular products for tier-one smartphone customers
+- Contributed to several generations of Intel's commercialised XMM7xx series multi-mode LTE Modem Platforms providing Wireless Connectivity to millions of users across the globe
+- Gained expertise in product development, software maintenance, system design, wireless communications technologies (4G/5G NR) as well as physical layer algorithms
+- Finance enthusiast with a passion for equity research/derivatives trading/portfolio management
 
 
 ## Objective
