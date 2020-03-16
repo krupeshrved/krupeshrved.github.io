@@ -12,7 +12,7 @@
 ## Summary
 
 - An experienced professional with five years of diverse international experience in the Hi-Tech Semiconductors industry across the United States, Germany and India
-- Worked at leading Tech Giants such as Apple and Intel with a passion to develop world-class Cellular Products that empower and connect millions of smartphone users
+- Worked at leading Tech Giants such as Apple and Intel with a passion to develop world-class Cellular Products that empower and connect millions of users worldwide
 
 
 ## Objective
