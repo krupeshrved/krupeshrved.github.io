@@ -23,7 +23,7 @@
 
 ## Experience
 
-  __ASIC Design Engineer at Apple Technology Services, Munich, Germany__ `Nov 19 - Present`
+  __ASIC Design Engineer at Apple Technology Services, Munich, Germany__ `Nov 19 - Mar 20`
   - Currently working at Apple's RnD Center in Munich on 5G-NR Cellular Development
   - Responsible for firmware design and development as per 38 Series 3GPP Specifications
  
@@ -43,7 +43,7 @@
 ## Education
 
   __MBA (PGPX), Indian Institute of Management Ahmedabad__ `Apr 20 - Mar 21`
-  - Planning to pursue an MBA from IIM-A’s one-year Post Graduate Programme for Executives
+  - Enrolled in IIMA's One-Year Full-Time Residential MBA Post Graduate Programme for Executives
  
   __MS (Electrical Engineering), University of Southern California, CGPA: 3.87/4__  `Sep 13 - Dec 14`
   - Conducted directed research on WARP Radios with Ph.D. students at the ANRG Research LAB
