@@ -33,9 +33,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://krupeshrved.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 #sidebar links 
-#github_username: krupeshrved
+github_username: krupeshrved
 instagram_username: krupeshved
 linkedin_username: krupeshved
+twitter_username: krupesh.ved
 # Build settings
 theme: minima
 plugins:
