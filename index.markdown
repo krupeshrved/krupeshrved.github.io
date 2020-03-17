@@ -43,8 +43,8 @@
 ## Education
 
   __MBA (PGPX), Indian Institute of Management Ahmedabad__ `Apr 20 - Mar 21`
-  - Currently enrolled in IIMA's One-Year Full-Time Residential MBA Post Graduate Programme for Executives
-  - Learning different facets of business such as sales, marketing, strategy, operations and compliance
+  - Currently enrolled in IIMA's One-Year Full-Time MBA Post Graduate Programme for Executives
+  - Learning different facets of business such as sales, marketing, strategy and operations
  
   __MS (Electrical Engineering), University of Southern California, CGPA: 3.87/4__  `Sep 13 - Dec 14`
   - Conducted directed research on WARP Radios with Ph.D. students at the ANRG Research LAB
