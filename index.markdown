@@ -18,7 +18,7 @@
 ## Objective
 
 - Looking for opportunities as a Product Manager in a company or a well reputable association, thereby using a blend of my technical and business skills to deliver differentiating market products
-- I believe in bringing out four aspects of a product - Emotion, Empowerment, Simpilicty and Beauty, which can be achieved with a combination of Technology and Humanity
+- I believe in bringing out four aspects of a product - Emotion, Empowerment, Simplicity and Beauty, which can be achieved with a combination of Technology and Humanity
 
 
 ## Experience
@@ -29,7 +29,7 @@
  
   __Firmware Engineer at Intel Deutschland GmbH, Nuremberg, Germany__  `Jan 18 - Oct 19`
   - Moved to Intel Deutschland GmbH in January 2018 to gain further international exposure and professional diversity
-  - Worked on customer interaction and software maintainance during the product launch phase for XMM7560/XMM7660
+  - Worked on customer interaction and software maintenance during the product launch phase for XMM7560/XMM7660
   
   __Software Engineer at Intel Corporation, San Diego, California, USA__ `Feb 15 - Dec 17`
   - Joined Intel Corporation as a recent college graduate working on LTE Physical Layer Standards and Procedures
@@ -51,16 +51,16 @@
   - Teaching Assistant and Course Grader to students enrolled in the course EE 567 at USC
  
   __BE (Electronics and Telecommunications), Mumbai University, 82.5%__ `Aug 09 - May 13`
-  - Top 1% in college. University topper across 73 colleges in Mumbai during third year of engineering
+  - Top 1% in college. University topper across 73 colleges in Mumbai during the third year of engineering
   - Volunteered for several activities and events at the college Cultural and Tech Fest 
 
 
 ## Certifications
   - __MOOCs__ (Elements of AI), University of Helsinki `Feb 20`
  <a href="https://certificates.mooc.fi/validate/7x7y1zflma8">[See Credential]</a>
-  - __MOOCs__ (Machine Learning by Prof. Andrew NG), Coursera `Jan 20`
+  - __MOOCs__ (Machine Learning by Prof. Andrew Ng), Coursera `Jan 20`
  <a href="https://www.coursera.org/account/accomplishments/verify/73M49QBYXT54">[See Credential]</a>
-   - __MOOCs__ (AI for eveyone by Prof. Andrew NG), Coursera `Jan 20`
+   - __MOOCs__ (AI for everyone by Prof. Andrew Ng), Coursera `Jan 20`
  <a href="https://www.coursera.org/account/accomplishments/verify/NBWNQCT4B6Q7">[See Credential]</a>
   - __MOOCs__ (Transitioning to Product Management), LinkedIn Learning `Nov 19`
  <a href="https://www.linkedin.com/learning/transitioning-to-product-management">[See Credential]</a>
