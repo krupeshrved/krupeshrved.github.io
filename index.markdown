@@ -17,40 +17,41 @@
 
 ## Objective
 
-- Looking for opportunities as a Product Manager in a company or a well reputable association, thereby using a blend of my technical and business skills to deliver differentiating products
-- I believe in bringing out four aspect of a product - Emotion, Empowerment, Simpilicty and Beauty, which can be achieved with a combination of technology and humanity
+- Looking for opportunities as a Product Manager in a company or a well reputable association, thereby using a blend of my technical and business skills to deliver differentiating market products
+- I believe in bringing out four aspects of a product - Emotion, Empowerment, Simpilicty and Beauty, which can be achieved with a combination of Technology and Humanity
 
 
 ## Experience
 
   __ASIC Design Engineer at Apple Technology Services, Munich, Germany__ `Nov 19 - Mar 20`
-  - Worked at Apple's RnD Center in Munich on Cellular Firmware Development using 5G-NR Technology
-  - Responsible for firmware design and development as per 3GPP Release 16 Specifications and Standards
+  - Worked at Apple's Development Center in Munich on Cellular Firmware Development using 5G-NR Technology
+  - Responsible for LTE PHY firmware design and development as per 3GPP Release 16 Specifications and Standards
  
   __Firmware Engineer at Intel Deutschland GmbH, Nuremberg, Germany__  `Jan 18 - Oct 19`
-  - Moved to Intel's office in Nuremberg to gain further international exposure and diversity in 2018
-  - Worked on customer interaction and software maintainance during launch phase of the product
+  - Moved to Intel Deutschland GmbH in January 2018 to gain further international exposure and professional diversity
+  - Worked on customer interaction and software maintainance during the product launch phase for XMM7560/XMM7660
   
   __Software Engineer at Intel Corporation, San Diego, California, USA__ `Feb 15 - Dec 17`
-  - Joined Intel Corporation as a recent college graduate working on LTE Layer One Control Standards and Procedures
+  - Joined Intel Corporation as a recent college graduate working on LTE Physical Layer Standards and Procedures
   - Designed several LTE features and supported chip bring-up activities to meet critical modem KPIs and milestones
   
   __Graduate Technical Intern at Intel Corporation, Chicago, Illinois, USA__ `Jun 14 - Aug 14`
   - Completed a summer internship (as part of curriculum practical training) at Intel's office in Kemper Lakes, Chicago 
-  - Familiarized with several of Intel's development tools such as STT and CMW500 useful for log analysis and triaging
+  - Familiarized with several of Intel's development tools such as STT and CMW500, useful for log analysis and triaging
   
   
 ## Education
 
   __MBA (PGPX), Indian Institute of Management Ahmedabad__ `Apr 20 - Mar 21`
-  - Enrolled in IIMA's One-Year Full-Time Residential MBA Post Graduate Programme for Executives
+  - Currently enrolled in IIMA's One-Year Full-Time Residential MBA Post Graduate Programme for Executives
+  - Learning different facets of business such as sales, marketing, strategy, operations and compliance
  
   __MS (Electrical Engineering), University of Southern California, CGPA: 3.87/4__  `Sep 13 - Dec 14`
   - Conducted directed research on WARP Radios with Ph.D. students at the ANRG Research LAB
   - Teaching Assistant and Course Grader to students enrolled in the course EE 567 at USC
  
   __BE (Electronics and Telecommunications), Mumbai University, 82.5%__ `Aug 09 - May 13`
-  - Top 1% in college. University topper across 73 colleges in Mumbai during third year of Engineering
+  - Top 1% in college. University topper across 73 colleges in Mumbai during third year of engineering
   - Volunteered for several activities and events at the college Cultural and Tech Fest 
 
 
@@ -79,12 +80,12 @@
  
 ## Hobbies
 
-- __Travelling__ (Thirty One countries visited)
+- __Travelling__ (Twenty Nine countries visited)
 - __Sports__ (Cricket, Tennis, Badminton)
 - __Photography__ (Wildlife, Landscape)
 
 <!-- ### Footer
 
-Last updated: Feb 2020 -->
+Last updated: Mar 2020 -->
 
 
