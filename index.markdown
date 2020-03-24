@@ -13,33 +13,33 @@
 
 - An experienced professional with five years of diverse international experience in the Hi-Tech Semiconductors industry across the United States, Germany and India
 - Worked at leading Tech Giants such as Apple and Intel with a passion to develop world-class Cellular Products that empower and connect millions of users worldwide
-
+- Experien ced different functional roles such as software development, silicon design, system architecture and project management
 
 ## Objective
 
-- Looking for opportunities as a Product Manager in a company or a well reputable association, thereby using a blend of my technical and business skills to deliver differentiating market products
 - I believe in bringing out four aspects of a product - Emotion, Empowerment, Simplicity and Beauty, which can be achieved with a combination of Technology and Humanity
-
+- With this motto in mind, I am looking for opportunities to contribute as a Product Manager in a company or a well reputable association, thereby using a blend of my technical and business skills to deliver differentiating market products
 
 ## Experience
 
   __ASIC Design Engineer at Apple Technology Services, Munich, Germany__ `Nov 19 - Mar 20`
   - Worked at Apple's Development Center in Munich on Cellular Firmware Development using 5G-NR Technology
-  - Responsible for LTE PHY firmware design and development as per 3GPP Release 16 Specifications and Standards
+  - Documented design documents and formulated project plans as per 3GPP Release 16 Specifications and Standards
  
   __Firmware Engineer at Intel Deutschland GmbH, Nuremberg, Germany__  `Jan 18 - Oct 19`
   - Moved to Intel Deutschland GmbH in January 2018 to gain further international exposure and professional diversity
+  - Led several teams across multiple geographical locations to address bugs in the product and provided quick fixes
   - Worked on customer interaction and software maintenance during the product launch phase for XMM7560/XMM7660
   
   __Software Engineer at Intel Corporation, San Diego, California, USA__ `Feb 15 - Dec 17`
   - Joined Intel Corporation as a recent college graduate working on LTE Physical Layer Standards and Procedures
   - Designed several LTE features and supported chip bring-up activities to meet critical modem KPIs and milestones
+  - Contributed to Intel’s ~$4 Billion Wireless Business which spanned across a diverse range of wireless products
   
   __Graduate Technical Intern at Intel Corporation, Chicago, Illinois, USA__ `Jun 14 - Aug 14`
   - Completed a summer internship (as part of curriculum practical training) at Intel's office in Kemper Lakes, Chicago 
   - Familiarized with several of Intel's development tools such as STT and CMW500, useful for log analysis and triaging
-  
-  
+  - Successfully developed an automation script in Octave to reduce the system analysis time by 50% during log analysis 
 ## Education
 
   __MBA (PGPX), Indian Institute of Management Ahmedabad__ `Apr 20 - Mar 21`
@@ -81,8 +81,8 @@
 ## Hobbies
 
 - __Travelling__ (Twenty Nine countries visited)
-- __Sports__ (Cricket, Tennis, Badminton)
-- __Photography__ (Wildlife, Landscape)
+- __Sports__ (Cricket, Tennis, Badminton, Squash)
+- __Photography__ (Wildlife, Landscape, Portrait)
 
 <!-- ### Footer
 
