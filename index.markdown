@@ -29,7 +29,7 @@
   __Firmware Engineer at Intel Deutschland GmbH, Nuremberg, Germany__  `Jan 18 - Oct 19`
   - Moved to Intel Deutschland GmbH in January 2018 to gain further international exposure and professional diversity
   - Led several teams across multiple geographical locations to address bugs in the product and provided quick fixes
-  - Worked on customer interaction and software maintenance during the product launch phase for XMM7560/XMM7660
+  - Worked with tier one customers and Telecom operators during the product launch phase for XMM7560/XMM7660
   
   __Software Engineer at Intel Corporation, San Diego, California, USA__ `Feb 15 - Dec 17`
   - Joined Intel Corporation as a recent college graduate working on LTE Physical Layer Standards and Procedures
@@ -39,7 +39,8 @@
   __Graduate Technical Intern at Intel Corporation, Chicago, Illinois, USA__ `Jun 14 - Aug 14`
   - Completed a summer internship (as part of curriculum practical training) at Intel's office in Kemper Lakes, Chicago 
   - Familiarized with several of Intel's development tools such as STT and CMW500, useful for log analysis and triaging
-  - Successfully developed an automation script in Octave to reduce the system analysis time by 50% during log analysis 
+  - Successfully developed an automation script in Octave to reduce the system analysis time by 50% during analysis 
+  
 ## Education
 
   __MBA (PGPX), Indian Institute of Management Ahmedabad__ `Apr 20 - Mar 21`
