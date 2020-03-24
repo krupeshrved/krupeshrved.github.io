@@ -24,7 +24,7 @@
 
   __ASIC Design Engineer at Apple Technology Services, Munich, Germany__ `Nov 19 - Mar 20`
   - Worked at Apple's Development Center in Munich on Cellular Firmware Development using 5G-NR Technology
-  - Documented design documents and formulated project plans as per 3GPP Release 16 Specifications and Standards
+  - Documented the product's design documents and formulated project plans as per 50+ 3GPP 38.2xx Release 16 Specifications and Standards
  
   __Firmware Engineer at Intel Deutschland GmbH, Nuremberg, Germany__  `Jan 18 - Oct 19`
   - Moved to Intel Deutschland GmbH in January 2018 to gain further international exposure and professional diversity
