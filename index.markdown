@@ -18,7 +18,7 @@
 ## Objective
 
 - I believe in bringing out four aspects of a product - Emotion, Empowerment, Simplicity and Beauty, which can be achieved with a combination of Technology and Humanity
-- With this motto in mind, I am looking for opportunities to contribute as a Product Manager in a company or a well reputable association, thereby using a blend of my technical and business skills to deliver differentiating market products
+- With this motto in mind, I am looking for opportunities to contribute as a Product Manager in a company or a well reputable association, thereby using a blend of my technical and business skills to deliver some market products
 
 ## Experience
 
