@@ -84,8 +84,8 @@
 - __Travelling__ (Twenty Nine countries visited)
 - __Sports__ (Cricket, Tennis, Badminton, Squash)
 - __Photography__ (Wildlife, Landscape, Portrait)
-- __Blogging__ (Some of my stories on Medium are 
- <a href="https://medium.com/me/stories/public">here</a>)
+- __Blogging__ (Some blogs on  
+ <a href="https://medium.com/me/stories/public">Medium</a>)
 
 <!-- ### Footer
 
