@@ -7,6 +7,7 @@
   | <a href="https://www.github.com/krupeshrved">GitHub</a>
     | <a href="https://twitter.com/krupesh_ved">Twitter</a>
       | <a href="https://medium.com/@krupeshved">Medium</a>
+        | <a href="https://www.quora.com/profile/Krupesh-Rajesh-Ved">Quora</a>
 </div>
 
 ## Summary
