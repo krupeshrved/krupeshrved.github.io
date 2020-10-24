@@ -18,10 +18,7 @@
 
 ## Objective
 
-- I believe in bringing out four aspects of a product - Emotion, Empowerment, Simplicity and Beauty, which can be achieved with a combination of Technology and Humanity
-- With this motto in mind, I am looking for opportunities to contribute as a Product Manager in a company or a well reputable association, thereby using a blend of my technical and business skills to deliver some market products
-
-## Experience
+- Looking for opportunities to deliver value and growth in large organizations or small startups through a mix of my technical and maagerial skills
 
   __ASIC Design Engineer at Apple Technology Services, Munich, Germany__ `Nov 19 - Mar 20`
   - Worked at Apple's Development Center in Munich on Cellular Firmware Development using 5G-NR Technology
@@ -46,7 +43,7 @@
 
   __MBA (PGPX), Indian Institute of Management Ahmedabad__ `Apr 20 - Mar 21`
   - Currently enrolled in IIMA's One-Year Full-Time MBA Post Graduate Programme for Executives
-  - Learning different facets of business such as sales, marketing, strategy and operations
+  - Learning different facets of business such as finance, marketing, strategy and operations
  
   __MS (Electrical Engineering), University of Southern California, CGPA: 3.87/4__  `Sep 13 - Dec 14`
   - Conducted directed research on WARP Radios with Ph.D. students at the ANRG Research LAB
