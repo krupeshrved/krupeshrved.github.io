@@ -52,7 +52,7 @@
   - Teaching Assistant and Course Grader to students enrolled in the course EE 567 at USC
  
   __BE (Electronics and Telecommunications), Mumbai University, 82.5%__ `Aug 09 - May 13`
-  - Top 1% in college. University topper across 73 colleges in Mumbai during the third year of engineering
+  - Top 1% in college. University topper across 73 colleges in Mumbai during the third year of BE
   - Volunteered for several activities and events at the college Cultural and Tech Fest 
 
 
