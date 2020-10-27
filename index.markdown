@@ -12,13 +12,15 @@
 
 ## Summary
 
-- An experienced professional with five years of diverse international experience in the Hi-Tech Semiconductors industry across the United States, Germany and India
-- Worked at leading Tech Giants such as Apple and Intel with a passion to develop world-class Cellular Products that empower and connect millions of users worldwide
-- Contributed in different functional roles such as software development, silicon design, system architecture and project management
+- Product Development professional with 5+ years of diverse experience across 3 continents in designing and delivering cutting-edge products to leading customers 
+- Worked at 2 Fortune 500 companies, managing 10-12 product lines and contributing to top-line revenues in the Hi-Tech domain
 
 ## Objective
 
-- Looking for opportunities to deliver value and growth in large organizations or small startups through a mix of my technical and maagerial skills
+-  Aspiring to be a disruptive business solver with end to end ownership managing products under challenging deadlines
+-  Looking for opportunities to deliver value and growth in large organizations or small startups through a mix of my technical and managerial skills
+
+## Work Experience
 
   __ASIC Design Engineer at Apple Technology Services, Munich, Germany__ `Nov 19 - Mar 20`
   - Worked at Apple's Development Center in Munich on Cellular Firmware Development using 5G-NR Technology
