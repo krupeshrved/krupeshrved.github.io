@@ -17,7 +17,7 @@
 
 ## Objective
 
--  - Aspiring to be a disruptive business solver with end to end ownership managing products and large scale projects under challenging deadlines
+-  Aspiring to be a disruptive business solver with end to end ownership managing products and large scale projects under challenging deadlines
 -  Looking for opportunities to deliver value and growth in large organizations or small startups through a mix of my technical and managerial skills
 
 ## Work Experience
