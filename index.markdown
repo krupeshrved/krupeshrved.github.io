@@ -12,34 +12,37 @@
 
 ## Summary
 
-- Product Development professional with 5+ years of diverse experience across 3 continents in designing and delivering cutting-edge products to leading customers 
-- Worked at 2 Fortune 500 companies, managing 10-12 product lines and contributing to top-line revenues in the Hi-Tech domain
+- Accomplished Product Management professional with over 5 years of diverse experience across 3 continents in managing and delivering cutting-edge products to leading customers
+- Worked at two Fortune 500 companies, across 10-12 high-value projects, having contributed to product lines with revenues of over $6-$7 Billion
 
 ## Objective
 
--  Aspiring to be a disruptive business solver with end to end ownership managing products under challenging deadlines
+-  - Aspiring to be a disruptive business solver with end to end ownership managing products and large scale projects under challenging deadlines
 -  Looking for opportunities to deliver value and growth in large organizations or small startups through a mix of my technical and managerial skills
 
 ## Work Experience
 
   __ASIC Design Engineer at Apple Technology Services, Munich, Germany__ `Nov 19 - Mar 20`
-  - Worked at Apple's Development Center in Munich on Cellular Firmware Development using 5G-NR Technology
-  - Documented the product's design documents and formulated project plans as per 50+ 3GPP 38.2xx Release 16 Specifications and Standards
+  - Influenced Apple's wireless strategy and product roadmap by designing cutting-edge features for the next-generation of 5G consumer products (iPhone/Apple Watch)
+  - Expanded Apple’s $1 Bn cellular investment by collaborating with 15 cross-functional teams (Tech, EPMs, Legal, Finance), across 6 sites, in 3 countries
+  - Achieved a 28% improvement in IC design packaging and influenced Apple’s 5G marketing initiative by translating 50 complex specifications into functional documents
+  - Saved 12 weeks of migration effort by propagating ~500 files across 8 large-sized repositories, accelerating Apple’s in-house chip development by 1.5x
+  
  
   __Firmware Engineer at Intel Deutschland GmbH, Nuremberg, Germany__  `Jan 18 - Oct 19`
-  - Moved to Intel Deutschland GmbH in January 2018 to gain further international exposure and professional diversity
-  - Led several teams across multiple geographical locations to address bugs in the product and provided quick fixes
-  - Worked with tier one customers and Telecom operators during the product launch phase for XMM7560/XMM7660
+  - Led a 10 member team (across US, Germany, China, India) to deliver a crucial UX feature, reducing the time to market by 6 weeks with a 2x increase in customer engagement
+  - Provided critical bug fixes during the iPhone X launch, resulting in a 30% reduction in defects and a 20x increase in the product’s software stability
+  - Spearheaded commercialization of Intel’s first-gigabit LTE multimode solution, shipping 100+ Million units worldwide and generating over $1.5 Billion of revenue
+  - Reduced the product’s BOM costs by 40% by using inexpensive components while achieving 100% of the performance metrics and target KPIs
   
   __Software Engineer at Intel Corporation, San Diego, California, USA__ `Feb 15 - Dec 17`
-  - Joined Intel Corporation as a recent college graduate working on LTE Physical Layer Standards and Procedures
-  - Designed several LTE features and supported chip bring-up activities to meet critical modem KPIs and milestones
-  - Contributed to Intel’s ~$4 Billion Wireless Business which spanned across a diverse range of wireless products
+  - Contributed to Intel’s $4 Billion wireless business, implementing high-quality firmware in C/C++ for its products’ most critical component
+  - Developed an automation script to reduce the system analysis time by 50%, thereby saving ~100 engineering hours weekly and $182K cost annually
+  - Mentored 4 interns as well as 2 new hires on organizational culture; organized 3 major team-building events for 250 people fostering cross-cultural diversity
   
   __Graduate Technical Intern at Intel Corporation, Chicago, Illinois, USA__ `Jun 14 - Aug 14`
-  - Completed a summer internship (as part of curriculum practical training) at Intel's office in Kemper Lakes, Chicago 
-  - Familiarized with several of Intel's development tools such as STT and CMW500, useful for log analysis and triaging
-  - Successfully developed an automation script in Octave to reduce the system analysis time by 50% during analysis 
+  - Influenced launch of Intel's XMM7260 chip commercialization by verifying more than 300 software versions for a leading smartphone vendor
+  - Promoted team building and cross-collaboration by planning the great place to work summer event for all 120 employees at Intel's site in Chicago
   
 ## Education
 
