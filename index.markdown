@@ -12,13 +12,12 @@
 
 ## Summary
 
-- Accomplished Product Management professional with over 5 years of diverse experience across 3 continents in managing and delivering cutting-edge products to leading customers
+- Accomplished Product Development professional with over 5 years of diverse experience across 3 continents in managing and delivering cutting-edge products to leading customers in the Hi-Tech Industry
 - Worked at two Fortune 500 companies, across 10-12 high-value projects, having contributed to product lines with revenues of over $6-$7 Billion
 
 ## Objective
 
--  Aspiring to be a disruptive business solver with end to end ownership managing products and large scale projects under challenging deadlines
--  Looking for opportunities to deliver value and growth in large organizations or small startups through a mix of my technical and managerial skills
+-  Looking to add value to any organization I am part of via the best of my technical and managerial skills 
 
 ## Work Experience
 
@@ -46,9 +45,9 @@
   
 ## Education
 
-  __MBA (PGPX), Indian Institute of Management Ahmedabad__ `Apr 20 - Mar 21`
+  __MBA (PGPX), Indian Institute of Management Ahmedabad__ `Apr 20 - Apr 21`
   - Currently enrolled in IIMA's One-Year Full-Time MBA Post Graduate Programme for Executives
-  - Learning different facets of business such as finance, marketing, strategy and operations
+  - Learning different facets of business such as finance, marketing and economics
  
   __MS (Electrical Engineering), University of Southern California, CGPA: 3.87/4__  `Sep 13 - Dec 14`
   - Conducted directed research on WARP Radios with Ph.D. students at the ANRG Research LAB
@@ -91,6 +90,6 @@
 
 <!-- ### Footer
 
-Last updated: Mar 2020 -->
+Last updated: Mar 2021 -->
 
 
