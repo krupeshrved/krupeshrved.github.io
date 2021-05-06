@@ -18,11 +18,11 @@
 
 ## Objective
 
--  Looking to add value to any organization I am part of via the best of my technical and managerial skills 
+-  Looking to add value to teams, verticals and organizations via the best of my technical and managerial skills 
 
 ## Work Experience
 
-  __Manager, Management Associate at Mastercard India Services, Mumbai, India__ `Apr 21 - Present`
+  __Manager, Management Associate at Mastercard India, Mumbai, India__ `Apr 21 - Present`
   - Currently part of Mastercard's MBA-MAP Program - a 18 month Global Leadership Program with three rotations across different functional groups in the company
   
   __ASIC Design Engineer at Apple Technology Services, Munich, Germany__ `Nov 19 - Mar 20`
