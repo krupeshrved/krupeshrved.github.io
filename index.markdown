@@ -12,8 +12,9 @@
 
 ## Summary
 
-- Accomplished Product Development professional with over 5 years of diverse experience across 3 continents in managing and delivering cutting-edge products to leading customers in the Hi-Tech Industry
-- Worked at two Fortune 500 companies, across 10-12 high-value projects, having contributed to product lines with revenues of over $6-$7 Billion
+- Accomplished Product Development professional with over 5 years of diverse experience across 3 continents (NA/EU/APAC) in the Wireless Domain
+- Managed the development and delivery of cutting-edge products to leading customers in the Hi-Tech Industry
+- Worked at two Fortune 500 companies, across 10-12 high-value projects, contributing to product lines with revenues of over $6-$7 Billion
 
 ## Objective
 
@@ -21,13 +22,15 @@
 
 ## Work Experience
 
+  __Manager, Management Associate at Mastercard India Services, Mumbai, India__ `Apr 21 - Present`
+  - Currently part of Mastercard's MBA-MAP Program - a 18 month Global Leadership Program with three rotations across different functional groups in the company
+  
   __ASIC Design Engineer at Apple Technology Services, Munich, Germany__ `Nov 19 - Mar 20`
   - Influenced Apple's wireless strategy and product roadmap by designing cutting-edge features for the next-generation of 5G consumer products (iPhone/Apple Watch)
   - Expanded Apple’s $1 Bn cellular investment by collaborating with 15 cross-functional teams (Tech, EPMs, Legal, Finance), across 6 sites, in 3 countries
   - Achieved a 28% improvement in IC design packaging and influenced Apple’s 5G marketing initiative by translating 50 complex specifications into functional documents
   - Saved 12 weeks of migration effort by propagating ~500 files across 8 large-sized repositories, accelerating Apple’s in-house chip development by 1.5x
   
- 
   __Firmware Engineer at Intel Deutschland GmbH, Nuremberg, Germany__  `Jan 18 - Oct 19`
   - Led a 10 member team (across US, Germany, China, India) to deliver a crucial UX feature, reducing the time to market by 6 weeks with a 2x increase in customer engagement
   - Provided critical bug fixes during the iPhone X launch, resulting in a 30% reduction in defects and a 20x increase in the product’s software stability
@@ -46,8 +49,8 @@
 ## Education
 
   __MBA (PGPX), Indian Institute of Management Ahmedabad__ `Apr 20 - Apr 21`
-  - Currently enrolled in IIMA's One-Year Full-Time MBA Post Graduate Programme for Executives
-  - Learning different facets of business such as finance, marketing and economics
+  - Graduated from IIMA's One-Year Full-Time MBA Post Graduate Programme for Executives
+  - Learnt different facets of business such as finance, marketing and economics
  
   __MS (Electrical Engineering), University of Southern California, CGPA: 3.87/4__  `Sep 13 - Dec 14`
   - Conducted directed research on WARP Radios with Ph.D. students at the ANRG Research LAB
