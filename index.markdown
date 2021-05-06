@@ -50,7 +50,7 @@
 
   __MBA (PGPX), Indian Institute of Management Ahmedabad__ `Apr 20 - Apr 21`
   - Graduated from IIMA's One-Year Full-Time MBA Post Graduate Programme for Executives
-  - Learnt different facets of business such as finance, marketing and economics
+  - Learnt different facets of business such as Finance, Marketing and Economics
  
   __MS (Electrical Engineering), University of Southern California, CGPA: 3.87/4__  `Sep 13 - Dec 14`
   - Conducted directed research on WARP Radios with Ph.D. students at the ANRG Research LAB
