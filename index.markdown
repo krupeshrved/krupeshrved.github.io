@@ -51,6 +51,7 @@
   __MBA (PGPX), Indian Institute of Management Ahmedabad__ `Apr 20 - Apr 21`
   - Graduated from IIMA's One-Year Full-Time MBA Post Graduate Programme for Executives
   - Learnt different facets of business such as Finance, Marketing and Economics
+  - Served as Academic Representative to 140 students in the X15 PGPX Class of 2021
  
   __MS (Electrical Engineering), University of Southern California, CGPA: 3.87/4__  `Sep 13 - Dec 14`
   - Conducted directed research on WARP Radios with Ph.D. students at the ANRG Research LAB
