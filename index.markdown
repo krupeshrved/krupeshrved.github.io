@@ -79,6 +79,7 @@
 
 ## Achievements
   
+  - Received __Merit Scholarship Award__ at IIMA's PGPX Program for academic excellence and all-round performance
   - Admitted into the prestigious __MSEE Honors Program__ for doing outstanding research with the ANRG Group
   - Top 1% among 1200 incoming students to receive the __USC Dean’s Fellowship Award__ (~$5100 tuition waiver)
   - Awarded the __J.R.D Tata Scholarship__ twice during the second and third years of undergraduate engineering
