@@ -53,6 +53,10 @@
   - Graduated from IIMA's One-Year Full-Time MBA Post Graduate Programme for Executives
   - Learnt different facets of business such as Finance, Marketing and Economics
   - Served as Academic Representative to 140 students in the X15 PGPX Class of 2021
+
+__CORe (Credential of Readiness), Harvard Business School Online, Grade: Pass with High Honors__ `May 17 - Aug 17`
+  - CORe (Credential of Readiness) is a 150-hour certificate program on the fundamentals of business from Harvard Business School
+  - CORe is comprised of three courses—Business Analytics, Economics for Managers, and Financial Accounting—developed by leading Harvard Business School faculty and delivered in an active learning environment based on the HBS signature case-based learning model
  
   __MS (Electrical Engineering), University of Southern California, CGPA: 3.87/4__  `Sep 13 - Dec 14`
   - Conducted directed research on WARP Radios with Ph.D. students at the ANRG Research LAB
@@ -64,6 +68,11 @@
 
 
 ## Certifications
+
+  - __MOOCs__ (Introduction to Data Analysis Using Excel), Rice University `Jul 21`
+ <a href="https://www.coursera.org/account/accomplishments/verify/9LZCUUDNC7ST">[See Credential]</a>
+   - __NISM__ (Series-VIII: Equity Derivatives Certification Examination), NSE `May 21`
+ <a href="https://www.nism.ac.in/equity-derivatives/">[See Credential]</a>
   - __MOOCs__ (Elements of AI), University of Helsinki `Feb 20`
  <a href="https://certificates.mooc.fi/validate/7x7y1zflma8">[See Credential]</a>
   - __MOOCs__ (Machine Learning by Prof. Andrew Ng), Coursera `Jan 20`
