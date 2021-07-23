@@ -12,18 +12,19 @@
 
 ## Summary
 
-- Accomplished Product Development professional with over 5 years of diverse experience across 3 continents (NA/EU/APAC) in the Wireless Domain
-- Managed the development and delivery of cutting-edge products to leading customers in the Hi-Tech Industry
-- Worked at two Fortune 500 companies, across 10-12 high-value projects, contributing to product lines with revenues of over $6-$7 Billion
+- Accomplished Product Development professional with over 5 years of diverse experience across 3 continents in the Wireless Domain
+- Managed the development and delivery of cutting-edge cellular products to leading B2B customers in the Hi-Tech Industry
+- Graduated with an MBA from IIMA's One-Year Full-Time Residential Program for Executives (PGPX Class of 2021)
 
 ## Objective
 
--  Looking to add value to teams, verticals and organizations via the best of my technical and managerial skills 
+-  FinTech Enthusiast with a passion to leverage Data Analytics, Macroeconomics Frameworks and Strategic Models for solving customer problems in the Digital payments Space
 
 ## Work Experience
 
   __Manager, Management Associate at Mastercard India, Mumbai, India__ `Apr 21 - Present`
-  - Currently part of Mastercard's MBA-MAP Program - a 18 month Global Leadership Program with three rotations across different functional groups in the company
+  - Currently part of Mastercard's MBA-MAP Program - a 18 month Global Leadership Program with three rotations across different functions of the business
+  - Rotation One: Working with Market Delivery Team, South Asia (IMK) to help improve operational efficiencies and drive better technical integration processes for customers in the South Asia Region 
   
   __ASIC Design Engineer at Apple Technology Services, Munich, Germany__ `Nov 19 - Mar 20`
   - Influenced Apple's wireless strategy and product roadmap by designing cutting-edge features for the next-generation of 5G consumer products (iPhone/Apple Watch)
@@ -48,7 +49,7 @@
   
 ## Education
 
-  __MBA (PGPX), Indian Institute of Management Ahmedabad__ `Apr 20 - Apr 21`
+  __MBA (PGPX), Indian Institute of Management Ahmedabad, CGPA: 3.59/4.33__ `Apr 20 - Apr 21`
   - Graduated from IIMA's One-Year Full-Time MBA Post Graduate Programme for Executives
   - Learnt different facets of business such as Finance, Marketing and Economics
   - Served as Academic Representative to 140 students in the X15 PGPX Class of 2021
@@ -57,7 +58,7 @@
   - Conducted directed research on WARP Radios with Ph.D. students at the ANRG Research LAB
   - Teaching Assistant and Course Grader to students enrolled in the course EE 567 at USC
  
-  __BE (Electronics and Telecommunications), Mumbai University, 82.5%__ `Aug 09 - May 13`
+  __BE (Electronics and Telecommunications), Mumbai University, Agg.Percent: 82.5%__ `Aug 09 - May 13`
   - Top 1% in college. University topper across 73 colleges in Mumbai during the third year of BE
   - Volunteered for several activities and events at the college Cultural and Tech Fest 
 
