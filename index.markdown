@@ -22,11 +22,11 @@
 
 ## Work Experience
 
-  __Manager, Management Associate at Mastercard India, Mumbai, India__ `Apr 21 - Present`
+  __Manager, Management Associate at Mastercard, Mumbai, India__ `Apr 21 - Present`
   - Currently part of Mastercard's MBA-MAP Program - a 18 month Global Leadership Program with three rotations across different functions of the business
   - Rotation One: Working with Market Delivery Team, South Asia (IMK) to help improve operational efficiencies and drive better technical integration processes for customers in the South Asia Region 
   
-  __ASIC Design Engineer at Apple Technology Services, Munich, Germany__ `Nov 19 - Mar 20`
+  __ASIC Design Engineer at Apple, Munich, Germany__ `Nov 19 - Mar 20`
   - Influenced Apple's wireless strategy and product roadmap by designing cutting-edge features for the next-generation of 5G consumer products (iPhone/Apple Watch)
   - Expanded Apple’s $1 Bn cellular investment by collaborating with 15 cross-functional teams (Tech, EPMs, Legal, Finance), across 6 sites, in 3 countries
   - Achieved a 28% improvement in IC design packaging and influenced Apple’s 5G marketing initiative by translating 50 complex specifications into functional documents
