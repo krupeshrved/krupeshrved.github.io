@@ -23,7 +23,7 @@
 ## Work Experience
 
   __Manager, Management Associate at Mastercard, Mumbai, India__ `Apr 21 - Present`
-  - Currently part of Mastercard's MAP Program - a 18 month Global Leadership Program with three rotations of 6 months across different functions of the business
+  - Currently part of Mastercard's MAP Program - an 18 month Global Leadership Program with three rotations of 6 months across different functions of the business
   - Rotation One: Working with Market Delivery Team, South Asia (IMK) to help improve operational efficiencies and devise better integration processes for customers in the South Asia Region 
   
   __ASIC Design Engineer at Apple, Munich, Germany__ `Nov 19 - Mar 20`
