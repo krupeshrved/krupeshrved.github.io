@@ -14,17 +14,19 @@
 
 - Accomplished Product Development professional with over 5 years of diverse experience across 3 continents in the Wireless Domain
 - Managed the development and delivery of cutting-edge cellular products to leading B2B customers in the Hi-Tech Industry
+- FinTech Enthusiast with one year of experience in Payments at Mastercard's Global Leadership Development Program
 - Graduated with an MBA from IIMA's One-Year Full-Time Residential Program for Executives (PGPX Class of 2021)
 
 ## Objective
 
--  FinTech Enthusiast with a passion to leverage Data Analytics, Macroeconomics Frameworks and Strategic Models for solving customer problems in the Digital payments Space
+-  FinTech Enthusiast with a passion to build Products and operationally deliver on customer's strategic expectations in the Digital Payments Space
 
 ## Work Experience
 
   __Manager, Management Associate at Mastercard, Mumbai, India__ `Apr 21 - Present`
   - Currently part of Mastercard's MAP Program - an 18 month Global Leadership Program with three rotations of 6 months across different functions of the business
-  - Rotation One: Working with Market Delivery Team, South Asia (IMK) to help improve operational efficiencies and devise better integration processes for customers in the South Asia Region 
+  - Rotation One: Worked with Market Delivery Team, South Asia (IMK) to help improve operational efficiencies and devise better integration processes for customers in the South Asia Region 
+  - Rotation Two: Working with the Finance Center of Excellence Team on strategic initiatives such as automation of deal tracking as well as project management for the team's expansion
   
   __ASIC Design Engineer at Apple, Munich, Germany__ `Nov 19 - Mar 20`
   - Influenced Apple's wireless strategy and product roadmap by designing cutting-edge features for the next-generation of 5G consumer products (iPhone/Apple Watch)
