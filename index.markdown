@@ -13,7 +13,7 @@
 ## Summary
 
 - Accomplished Technology & Product professional with over 7 years of diverse experience across 4 continents (US/EU/MEA/APAC)
-- Proven track record of developing utting-edge products to deliver customers in Hi-tech & Fintech Space
+- Proven track record of developing cutting-edge products to deliver customers in Hi-tech & Fintech Space
 - Currently part of Mastercard's Global Leadership Development Program (MGDP) for MBA B-School Graduates
 - Graduated with an MBA from IIMA's One-Year Full-Time Residential Program for Executives (PGPX Class of 2021)
 
@@ -26,9 +26,9 @@
 
   __Manager, Management Associate at Mastercard, Mumbai, India__ `Apr 21 - Present`
   - Currently part of Mastercard's MAP Program - an 18 month Global Leadership Program with three rotations of 6 months across different functions of the business
-  - Rotation One: Part of Market Delivery Team, South Asia (IMK) to help deliver and implement the delivery of both Core & Digital Products to 39 Issuers in the South Asia Region
-  - Rotation Two: Worked with the Finance Center of Excellence Team on strategic initiatives such as automation of deal tracking as well as project management for the team's expansion
-  - Rotation Three: International rotation in Dubai, leading Mastercard's Buy Now Pay Later (BNPL) Program for UAE/KSA Launch as well as devising GTM Strategy for expansion into newer markets
+  - Rotation One (Mumbai): Consulted ~10 issuers in South Asia to improve their authorization approval rates, managed delivery and execution of core and digital products for ~55 Banks
+  - Rotation Two (Mumbai): Lead the automation of deal tracking for business development finance team as well as strategize expansion plan of India Finance Center from 65 FTEs to 125 FTEs
+  - Rotation Three (Dubai): International rotation, leading Mastercard's Buy Now Pay Later (BNPL) Program for UAE/KSA Launch as well as devising GTM Strategy for expansion into 10 new markets in MEA
   
   __ASIC Design Engineer at Apple, Munich, Germany__ `Nov 19 - Mar 20`
   - Influenced Apple's wireless strategy and product roadmap by designing cutting-edge features for the next-generation of 5G consumer products (iPhone/Apple Watch)
