@@ -12,21 +12,23 @@
 
 ## Summary
 
-- Accomplished Product Development professional with over 5 years of diverse experience across 3 continents in the Wireless Domain
-- Managed the development and delivery of cutting-edge cellular products to leading B2B customers in the Hi-Tech Industry
-- FinTech Enthusiast with one year of experience in Payments at Mastercard's Global Leadership Development Program (MGDP)
+- Accomplished Technology & Product professional with over 7 years of diverse experience across 4 continents (US/EU/MEA/APAC)
+- Proven track record of developing utting-edge products to deliver customers in Hi-tech & Fintech Space
+- Currently part of Mastercard's Global Leadership Development Program (MGDP) for MBA B-School Graduates
 - Graduated with an MBA from IIMA's One-Year Full-Time Residential Program for Executives (PGPX Class of 2021)
 
 ## Objective
 
--  Team player with a passion to build Products and operationally deliver on strategic projeects for customers in the Digital Payments Space
+-  Team player with a passion to build Products and deliver on strategic projects for customers in the Digital Payments Space
+-  Skillset: Product Management, Finance Transformation, Customer Delivery, Strategy Execution, Payments Consulting 
 
 ## Work Experience
 
   __Manager, Management Associate at Mastercard, Mumbai, India__ `Apr 21 - Present`
   - Currently part of Mastercard's MAP Program - an 18 month Global Leadership Program with three rotations of 6 months across different functions of the business
-  - Rotation One: Worked with Market Delivery Team, South Asia (IMK) to help deliver and implement the delivery of both Core & Digital Products to 39 Issuers in the South Asia Region
-  - Rotation Two: Working with the Finance Center of Excellence Team on strategic initiatives such as automation of deal tracking as well as project management for the team's expansion
+  - Rotation One: Part of Market Delivery Team, South Asia (IMK) to help deliver and implement the delivery of both Core & Digital Products to 39 Issuers in the South Asia Region
+  - Rotation Two: Worked with the Finance Center of Excellence Team on strategic initiatives such as automation of deal tracking as well as project management for the team's expansion
+  - Rotation Three: International rotation in Dubai, leading Mastercard's Buy Now Pay Later (BNPL) Program for UAE/KSA Launch as well as devising GTM Strategy for expansion into newer markets
   
   __ASIC Design Engineer at Apple, Munich, Germany__ `Nov 19 - Mar 20`
   - Influenced Apple's wireless strategy and product roadmap by designing cutting-edge features for the next-generation of 5G consumer products (iPhone/Apple Watch)
