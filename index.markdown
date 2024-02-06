@@ -109,7 +109,7 @@ __CORe (Credential of Readiness), Harvard Business School Online, Grade: Pass wi
  
 ## Hobbies
 
-- __Travelling__ (Twenty Nine countries visited)
+- __Travelling__ (Thirty Two countries visited)
 - __Sports__ (Cricket, Tennis, Badminton, Squash)
 - __Photography__ (Wildlife, Landscape, Portrait)
 - __Blogging__ (Some blogs on <a href="https://medium.com/me/stories/public">Medium</a>)
