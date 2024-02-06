@@ -12,9 +12,10 @@
 
 ## Summary
 
-- Accomplished Technology & Product professional with over 7 years of diverse experience across 4 continents (US/EU/MEA/APAC)
-- Proven track record of developing cutting-edge products to deliver customers in Hi-tech & Fintech Space
-- Currently part of Mastercard's Global Leadership Development Program (MGDP) for MBA B-School Graduates
+- Accomplished Technology & Product professional with over 8 years of diverse experience across 4 continents (US/EU/MEA/APAC)
+- Proven track record of developing cutting-edge products to deliver customers in Hi-tech & Fin-Tech Space
+- Seasoned product Manager with Commercialization and Business Development experience across products and verticals
+- Completed 28 months in Mastercard's Global Leadership Development Program (MGDP) for Tier-One MBA B-School Graduates
 - Graduated with an MBA from IIMA's One-Year Full-Time Residential Program for Executives (PGPX Class of 2021)
 
 ## Objective
@@ -24,8 +25,14 @@
 
 ## Work Experience
 
-  __Manager, Management Associate at Mastercard, Mumbai, India__ `Apr 21 - Present`
-  - Currently part of Mastercard's MAP Program - an 18 month Global Leadership Program with three rotations of 6 months across different functions of the business
+  Director, Global Product Management at Mastercard, Mumbai, India__ `Nov 22 - Presented`
+  - Leading commercialization and GTM Strategy of Mastercard's suite of 300+ Operational Reports for 4000+ Financial Institutions across 200+ countries
+  - Responsible for optimization of the business including efforts in devising marketing campaigns, customer segmentation, pricing packages and distribution strategy
+  - Provide requirements and business stories to engineering teams to devise new features, improving customer experience for the SaaS Platform
+  - Analyzed key data to make critical reports available to customer, thereby driving $10 Million+ of top line revenue to the business
+  
+  __Manager, Management Associate at Mastercard, Mumbai, India & Dubai, United Arab Emirates__ `Apr 21 - Oct 22`
+  - Graduated from Mastercard's MAP Program - an 18 month Global Leadership Program with three rotations of 6 months across different functions of the business
   - Rotation One (Mumbai): Consulted ~10 issuers in South Asia to improve their authorization approval rates, managed delivery and execution of core and digital products for ~55 Banks
   - Rotation Two (Mumbai): Lead the automation of deal tracking for business development finance team as well as strategize expansion plan of India Finance Center from 65 FTEs to 125 FTEs
   - Rotation Three (Dubai): International rotation, leading Mastercard's Buy Now Pay Later (BNPL) Program for UAE/KSA Launch as well as devising GTM Strategy for expansion into 10 new markets in MEA
