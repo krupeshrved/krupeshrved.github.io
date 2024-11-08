@@ -12,10 +12,10 @@
 
 ## Summary
 
-- Accomplished Technology & Product professional with over 8 years of diverse experience across 4 continents (US/EU/MEA/APAC)
+- Accomplished Technology & Product professional with over 9 years of diverse experience across 4 continents (US/EU/MEA/APAC)
 - Proven track record of developing cutting-edge products to deliver customers in Hi-tech & Fin-Tech Space
 - Seasoned product Manager with Commercialization and Business Development experience across products and verticals
-- Completed 28 months in Mastercard's Global Leadership Development Program (MGDP) for Tier-One MBA B-School Graduates
+- Completed 18 months in Mastercard's Global Leadership Development Program (MGDP) for Tier-One MBA B-School Graduates
 - Graduated with an MBA from IIMA's One-Year Full-Time Residential Program for Executives (PGPX Class of 2021)
 
 ## Objective
@@ -25,11 +25,17 @@
 
 ## Work Experience
 
-  Director, Global Product Management at Mastercard, Mumbai, India__ `Nov 22 - Presented`
+  __Quantitative Derivatives Trader, Independent Practice, Mumbai, India__ `Jan 23 - Present'
+  - Quantitative data study and technical analyst with trading practice on leading indices such as Nifty, Bank Nifty on the National Stock Index
+  - Formulate strategies and hedging positions based on market conditions after evaluating parameters such as volumes, volatility, price movements etc. 
+  - Generate ~30% returns CAGR on VaR (value at risk) Margin by taking appropriate strategic position as per market conditions and macro environment
+  - Analyze risk reward ratio based on market conditions to recommend trade positions and carry out trades using automated trading platforms on exchange
+
+  __Director, Global Product Management at Mastercard, Mumbai, India__ `Nov 22 - Present'
   - Leading commercialization and GTM Strategy of Mastercard's suite of 300+ Operational Reports for 4000+ Financial Institutions across 200+ countries
   - Responsible for optimization of the business including efforts in devising marketing campaigns, customer segmentation, pricing packages and distribution strategy
   - Provide requirements and business stories to engineering teams to devise new features, improving customer experience for the SaaS Platform
-  - Analyzed key data to make critical reports available to customer, thereby driving $10 Million+ of top line revenue to the business
+  - Analyzed key data to make critical reports available to customer, thereby driving $20 Million+ of top line revenue to the business
   
   __Manager, Management Associate at Mastercard, Mumbai, India & Dubai, United Arab Emirates__ `Apr 21 - Oct 22`
   - Graduated from Mastercard's MAP Program - an 18 month Global Leadership Program with three rotations of 6 months across different functions of the business
