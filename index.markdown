@@ -25,13 +25,13 @@
 
 ## Work Experience
 
-  __Quantitative Derivatives Trader, Independent Practice, Mumbai, India__ `Jan 23 - Present'
+  __Quantitative Derivatives Trader, Independent Practice, Mumbai, India__ `Apr 23 - Present`
   - Quantitative data study and technical analyst with trading practice on leading indices such as Nifty, Bank Nifty on the National Stock Index
   - Formulate strategies and hedging positions based on market conditions after evaluating parameters such as volumes, volatility, price movements etc. 
   - Generate ~30% returns CAGR on VaR (value at risk) Margin by taking appropriate strategic position as per market conditions and macro environment
   - Analyze risk reward ratio based on market conditions to recommend trade positions and carry out trades using automated trading platforms on exchange
 
-  __Director, Global Product Management at Mastercard, Mumbai, India__ `Nov 22 - Present'
+  __Director, Global Product Management at Mastercard, Mumbai, India__ `Nov 22 - Present`
   - Leading commercialization and GTM Strategy of Mastercard's suite of 300+ Operational Reports for 4000+ Financial Institutions across 200+ countries
   - Responsible for optimization of the business including efforts in devising marketing campaigns, customer segmentation, pricing packages and distribution strategy
   - Provide requirements and business stories to engineering teams to devise new features, improving customer experience for the SaaS Platform
